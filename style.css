@@ -1,0 +1,111 @@
+body {
+    padding-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #4e3914;
+  }
+  
+  .container{
+      background: #DDDDDD;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+  
+  .container-2{
+      background: #EEEEEE;
+      height: 420px;
+      padding-right: 25px;
+      padding-left: 15px;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+  
+  .section{
+      margin-top: 20px;
+  }
+  
+  .card-title-new{
+      color: #0099FF;
+      margin-bottom: -1px;
+      margin-top: 3px;
+      font-size: 20px;
+      font-weight: bold;
+  }
+  
+  .card-time{
+      font-style: italic;
+  }
+  p {
+      margin-top: 10px;
+  }
+  
+  #rcorners {
+    border-radius: 10px;
+    background: #4dbd74;
+    padding: 2px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .centered-top {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: yellow;
+    font-size: 40px;
+    letter-spacing: 8px;
+    font-weight: bold;
+  }
+  
+  .centered-bottom {
+    position: absolute;
+    top: 63%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    color: yellow;
+    font-size: 16px;
+  }
+  
+  .centered-b{
+      background: yellow;
+      font-size: 14px;
+  }
+  
+  
+  .card-img{
+      overflow: hidden;
+      position: relative;
+  }
+  
+  .img-fluid{
+      height: 280px;
+      width: 400px;
+  }
+  
+  .card-2{
+      width: 200px;
+      height: 120px;
+  }
+  
+  .card-img-2{
+      overflow: hidden;
+      position: relative;
+      height: 250px;
+  }
+  
+  .card-total{
+      color: #FF6600;
+      font-size: 20px;
+  }
+  .ratings {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    text-align: left;
+  }
